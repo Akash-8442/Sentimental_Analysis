@@ -1,2 +1,2 @@
 # Sentimental_Analysis
-Detection of Sentiment of a person
+Detection of Sentiment of a Statement
